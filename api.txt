@@ -1,0 +1,16 @@
+
+
+http://stackoverflow.com/questions/13921910/python-urllib2-receive-json-response-from-url
+
+api.openweathermap.org
+taipei: 1668341
+API key: 0c793813238d1dcb4c829d4eac4bfeb3
+key?: bd82977b86bf27fb59a04b61b657fb6f
+http://api.openweathermap.org/data/2.5/weather?id=1668341&appid=0c793813238d1dcb4c829d4eac4bfeb3
+
+cwb.gov.tw
+http://opendata.cwb.gov.tw/opendataapi?dataid={dataid}&authorizationkey={apikey}
+NOTE: must click link in verification email to enable account.
+Key:  CWB-0748F0D7-6B87-4E15-9905-DF410EBAB4C7
+List of Data ID: http://opendata.cwb.gov.tw/datalist
+http://opendata.cwb.gov.tw/opendataapi?dataid=F-C0032-001&authorizationkey=CWB-0748F0D7-6B87-4E15-9905-DF410EBAB4C7
